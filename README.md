@@ -39,6 +39,9 @@ Every week, a new folder gets added. Every commit is a step forward.
 ## 🗺️ Roadmap
 
 ```
+## 🗺️ Roadmap
+
+```text
 FOUNDATIONS                          STATUS
 ─────────────────────────────────────────────────────
 01 │ Python Basics                   ████████████  ✅ Done
@@ -50,15 +53,15 @@ FOUNDATIONS                          STATUS
 
 GOING DEEPER                         STATUS
 ─────────────────────────────────────────────────────
-07 │ Deep Learning + PyTorch         ████████░░░░  🔨 In Progress
-08 │ NLP Fundamentals                ░░░░░░░░░░░░  🔜 Next
-09 │ Transformers from Scratch       ░░░░░░░░░░░░  🔜 Next
-10 │ HuggingFace Ecosystem           ░░░░░░░░░░░░  🔜 Next
+07 │ Deep Learning + PyTorch         ████████████  ✅ Done
+08 │ NLP Fundamentals                ████████████  ✅ Done
+09 │ Transformers from Scratch       ████████████  ✅ Done
+10 │ HuggingFace Ecosystem           ████████████  ✅ Done
 
 LLM & PRODUCTION AI                  STATUS
 ─────────────────────────────────────────────────────
-11 │ LangChain + LlamaIndex          ░░░░░░░░░░░░  🔜 Next
-12 │ RAG Pipelines + Vector DBs      ░░░░░░░░░░░░  🔜 Next
+11 │ LangChain + LlamaIndex          ████████████  ✅ Done
+12 │ RAG Pipelines + Vector DBs      ████████████  ✅ Done
 13 │ Fine-tuning with LoRA/QLoRA     ░░░░░░░░░░░░  🔜 Next
 14 │ Agentic AI + LangGraph          ░░░░░░░░░░░░  🔜 Next
 15 │ Voice AI + Whisper              ░░░░░░░░░░░░  🔜 Next
